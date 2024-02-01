@@ -1,2 +1,2 @@
 # Python-weather-app-practicals
-I tried to create some weather apps in python, it did not worked well because gui is little bit problematic in python for me :)
+I tried to create fully done weather app, one of them includes UI but the rest of the 2 just console app with perfect live weather data from OpenWeather API. One of the console app version of my weather app directly takes the credentials and geographical location from ip address the other one works by entering the city name, the one with ip address designed to be implemented to website to show users locations weather information from their ip address. Other two of them is just basic weather app that shows the information by searching the city name.
